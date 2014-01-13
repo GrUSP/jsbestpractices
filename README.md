@@ -37,6 +37,8 @@ meglio la prossima volta.
 Potete contattarci e scaricare gli esempi tramite il [nostro sito](http://www.jsbestpractices.it)
 e la relativa pagina [Facebook](http://www.facebook.com/jsbestpractices).
 
+La chat in tempo reale realizzata con Node.js è disponibile all'indirizzo https://github.com/mcollina/js-best-practices-real-time-chat.
+
 Risorse utili
 -------------
 
